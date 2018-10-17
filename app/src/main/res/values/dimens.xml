@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="roll_padding">8dp</dimen>
+  <dimen name="die_size">70dp</dimen>
+  <dimen name="roll_item_width">50dp</dimen>
+</resources>
